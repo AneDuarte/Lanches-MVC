@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iivDxScM/59yOdbnhLcuO75q5w5xXVasMLPgckXJky0I8xaMvLN+wOtkb6k3fAL1XERjLLKa91yGa8n5JuPvQQ==",
+  "dgSpecHash": "2ykj92U3N4bb7A1eI43QuSABFfLO52mJ4Plv6UniyWvDNjm/nrlr5Rjs2zoqXq9k3t0aj7a4xxlPTjKFMsOyBw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Ane Duarte\\Desktop\\projeto_macoratti\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
+  "projectFilePath": "C:\\Users\\Ane Duarte\\Desktop\\projeto_macoratti\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ane Duarte\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Ane Duarte\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
